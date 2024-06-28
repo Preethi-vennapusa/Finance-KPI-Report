@@ -1,4 +1,4 @@
-# Power-BI-Report-Finance-KPI-Report-
+# Power-BI-Report-Finance-KPI-Report
 This Power BI report visualizes and analyzes the sales performance data for finance company. The report includes various metrics and visualizations to provide insights into how sales are tracking against targets, trends over time, and individual performance of sales personnel.
 Features:
 Total Sales Actual vs. Target: Displays the overall sales figures against the targets set for the year.
